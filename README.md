@@ -1,1 +1,1 @@
-# MemoryBased1
+Supplementary electronic material Reference: Y. Li, ..., Using a lattice-based model to interpret memory-based diffusion: Github_Memory_Num_MoveBirth.jl and Github_Memory_Agent_MoveBirth.jl with Julia.
